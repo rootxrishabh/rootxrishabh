@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="auto" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300" height="175px"/></a>
+<a href="#"><img align="middle" width="50%"  height="auto" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">,I'm rootxrishabh
 <h3 align="center">I'm a passionate Web Developer, love pentesting and coding.</h3>
